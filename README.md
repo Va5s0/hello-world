@@ -1,2 +1,3 @@
 # hello-world
-get started with GitHub
+Geting started with GitHub
+My first git project is about me and the world. So "Hello"!
